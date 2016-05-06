@@ -1,2 +1,2 @@
 # mylearn
-learninggit
+Learning git hub trough git tuts 
